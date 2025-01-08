@@ -37,6 +37,12 @@ const Gallery = () => {
       <GoToTop />
       <div className="container-fluid py-5">
         <div className="container">
+        <div className="text-center mx-auto mb-5">
+            <h5 className="d-inline-block text-primary text-uppercase border-bottom border-5">
+            Kayi Riders Group
+            </h5>
+            <h1 className="display-5">Gallery</h1>
+          </div>
           <div className="row g-5">
             {imageData.map((image) => (
               <div key={image.id} className="col-xl-4 col-lg-6">

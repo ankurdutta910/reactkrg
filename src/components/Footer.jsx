@@ -75,7 +75,7 @@ const Footer = () => {
               <div className="d-flex">
                 <a
                   className="btn btn-lg btn-primary btn-lg-square rounded-circle me-2"
-                  href="#"
+                  href="https://www.facebook.com/share/1BJdj18Sq5/" target="_blank"
                 >
                   <i className="fab fa-facebook-f"></i>
                 </a>
@@ -90,9 +90,9 @@ const Footer = () => {
 
                 <a
                   className="btn btn-lg btn-primary btn-lg-square rounded-circle"
-                  href="#"
+                  href="http://linkedin.com/in/kayirider-group-925077346" target="_blank"
                 >
-                  <i className="fab fa-youtube"></i>
+                  <i className="fab fa-linkedin"></i>
                 </a>
               </div>
             </div>
@@ -119,7 +119,7 @@ const Footer = () => {
                   href="https://techrysen.com"
                   target="_blank"
                 >
-                  TechRysen
+                  {" "}TechRysen
                 </a>
               </p>
             </div>

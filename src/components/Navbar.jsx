@@ -28,15 +28,15 @@ const Navbar = () => {
             </div>
             <div className="col-md-6 text-center text-lg-end">
               <div className="d-inline-flex align-items-center">
-                <a className="text-body px-2" href="">
+                <a className="text-body px-2" href="https://www.facebook.com/share/1BJdj18Sq5/" target="_blank">
                   <i className="fab fa-facebook-f"></i>
                 </a>
 
                 <a className="text-body px-2" href="https://www.instagram.com/official_krg_riders?igsh=MWtxNXVyOG1tenJpdQ==" target="_blank">
                   <i className="fab fa-instagram"></i>
                 </a>
-                <a className="text-body ps-2" href="">
-                  <i className="fab fa-youtube"></i>
+                <a className="text-body ps-2" href="http://linkedin.com/in/kayirider-group-925077346" target="_blank">
+                  <i className="fab fa-linkedin"></i>
                 </a>
               </div>
             </div>
